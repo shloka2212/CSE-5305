@@ -1,0 +1,13 @@
+This is
+an example file
+for this coding
+assignment.
+You are
+required to
+create your own
+file. Be sure
+to include lines
+that contain spaces
+like
+this
+example file.
